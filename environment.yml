@@ -10,6 +10,7 @@ dependencies:
   - matplotlib
   - scikit-learn
   - numpy
+  - scipy
   - pandas
   - networkx=2.2
   - graph-tool=2.29
