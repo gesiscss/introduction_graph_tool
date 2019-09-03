@@ -1,0 +1,21 @@
+name: entroduction_graph_tool_env
+channels:
+  - defaults
+  - conda-forge
+  - ostrokach-forge
+  - pkgw-forge
+dependencies:
+  - python=3.6
+  - pygobject
+  - matplotlib
+  - scikit-learn
+  - numpy
+  - pandas
+  - networkx=2.2
+  - graph-tool=2.29
+  - cairo>=1.14
+  #  - cairomm>=1.13
+  - pycairo
+  - pip:
+    - powerlaw
+    - python-louvain  
