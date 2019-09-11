@@ -1,6 +1,6 @@
 # Introduction to Python's Graph-Tool
 
-**Authors**: <a href='https://www.gesis.org/person/haiko.lietz'>Haiko Lietz</a>, <a href='https://www.gesis.org/person/marcos.oliveira'>Marcos Oliveira</a>, GESIS - Leibniz Institute for the Social Sciences
+**Authors**: <a href='https://www.gesis.org/person/haiko.lietz'>Haiko Lietz</a>, <a href='https://marcosoliveira.info/'>Marcos Oliveira</a>, GESIS - Leibniz Institute for the Social Sciences
 
 **Version Date**: 9 September 2019
 
