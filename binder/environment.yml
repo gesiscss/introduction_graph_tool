@@ -1,0 +1,11 @@
+name: introduction_graph_tool_env
+channels:
+  - conda-forge
+dependencies:
+  - graph-tool=2.37
+  - pandas
+  - networkx=2.5
+  - scikit-learn
+  - pip:
+    - powerlaw
+    - python-louvain 
